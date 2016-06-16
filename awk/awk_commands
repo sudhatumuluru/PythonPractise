@@ -1,0 +1,500 @@
+  137  git clone https://github.com/tweepy/tweepy.git
+  138  cd sreesudha
+  139  cd desktop
+  140  cd 'my stuff'
+  141  cd 'my sjsu work'
+  142  cd 'cloud technologies'
+  143  cd tweepy
+  144  python setup.py install
+  145  ls 
+  146  vi setup.py
+  147  python setup.py install
+  148  python setup.install
+  149  python setup.py install
+  150  ls
+  151  cat setup.py
+  152  python setup.py install
+  153  vi pip/
+  154  python setup.py install
+  155  python setup.py install
+  156  pip install tweepy
+  157  EXIT
+  158  exit
+  159  ssh 52.21.99.95 
+  160  ssh
+  161  ls
+  162  cd desktop/'my stuff'/'my sjsu work'/'cloud technologies
+  163  '
+  164  cd desktop
+  165  cd desktopexit
+  166  exit
+  167  cd 'desktop'/'my stuff'/'my sjsu work'/'cloud technologies'
+  168  ls
+  169  ssh 52.21.99.95 -i labassignment1.pem
+  170  chmod 400 labassignment1.pem
+  171  ssh 52.21.99.95 -i labassignment1.pem
+  172  chmod 777 labassignment1.pem
+  173  ssh 52.21.99.95 -i labassignment1.pem
+  174  sudo su
+  175  ssh ec2-user@52.21.99.95 -i labassignment1.pem
+  176  apt-get install python
+  177  python
+  178  exit
+  179  ssh ec2-user@52.21.99.95 -i labassignment1.pem
+  180  chmod 400 labassignment1.pem
+  181  cd "desktop"/"my stuff"/"my sjsu work"/"cloud technologies"
+  182  chmod 400 labassignment1.pem
+  183  ssh ec2-user@52.21.99.95 -i labassignment1.pem
+  184  cd /usr/lib
+  185  ls
+  186  apt-get install python
+  187  cd /usr/bin/python*
+  188  quit
+  189  exit
+  190  cd /usr/bin/python*
+  191  easy_install pip
+  192  ssh ec2-user@52.21.99.95 -i labassignment1.pem
+  193  chmod 400 labassignment1.pem
+  194  ssh ec2-user@52.21.99.95 -i labassignment1.pem
+  195  sudo su
+  196  cd "desktop"/"my stuff"/"my sjsu work"/"cloud technologies"
+  197  chmod 400 labassignment1.pem
+  198  ssh ec2-user@52.21.99.95 -i labassignment1.pem
+  199  exit
+  200  cd /usr/local/mysql/bin/
+  201  ./mysql -u root -h localhost -p
+  202  exit
+  203  exit
+  204  ssh root@10.0.2.15 -p 2022
+  205  ssh root@10.0.2.15
+  206  ssh root@10.0.2.15 -p 2022
+  207  ssh
+  208  ssh sreesudha@10.0.0.2
+  209  ssh root@10.0.2.15 
+  210  ssh localhost.localdomain@10.0.2.15 -p 2022
+  211  ssh localhost.localdomain@10.0.2.15 
+  212  ssh localhost@10.0.2.15 
+  213  ssh root@10.0.2.15
+  214  ssh root@10.0.2.15 
+  215  ssh localhost@10.0.2.15 
+  216  ssh localhost.localdomain@10.0.2.15 
+  217  ssh root@localhost 
+  218  ssh root@localhost -p 2022
+  219  ssh ipconfig
+  220  ipconfig
+  221  ifconfig
+  222  ssh 10.0.2.15 -p 2022
+  223  ssh 10.189.106.100 -p 2022
+  224  ssh root@10.189.106.100 -p 2022
+  225  ssh localhost@10.189.106.100 -p 2022
+  226  ssh
+  227  ssh localhost@10.189.106.100 -p 2022
+  228  ssh root@10.189.106.100 -p 2022
+  229  ssh ec2-user@52.21.99.95 -i labassignment1.pem
+  230  ssh ec2-user@52.21.99.95 -i labassignment1.pem
+  231  chmod 400 labassignment1.pem
+  232  ssh my-second-vm@20.20.20.0 -p 24
+  233  ssh root@10.0.0.2 -p 2022
+  234  ssh root@10.189.106.100 -p 2022
+  235  ssh root@10.189.106.100 -p 2022
+  236  ssh root@10.189.106.100 -p 2022
+  237  ssh root@10.189.106.100 -p 2022
+  238  ssh root@10.189.106.100 -p 2022
+  239  ssh root@10.189.106.100 -p 2022
+  240  ssh root@10.0.0.2 -p 2022
+  241  ssh root@10.0.0.2 -p 2022
+  242  ssh root@10.189.106.100 -p 2022
+  243  ssh 
+  244  ssh root@10.189.106.100 -p 2022
+  245  ssh ec2-user@52.21.99.95 -i labassignment.pem
+  246  cd /desktop/"my stuff"
+  247  cd desktop/"my stuff"
+  248  cd "my sjsu work"/"cloud technologies"
+  249  ssh ec2-user@52.21.99.95 -i labassignment.pem
+  250  ssh ec2-user@52.21.99.95 
+  251  ssh
+  252  ssh ec2-user@52.21.99.95 -i labassignment.pem
+  253  chmod 400 labassignment.pem
+  254  chmod 400 labassignment1.pem
+  255  ssh ec2-user@52.21.99.95 -i labassignment1.pem
+  256  ssh ec2-user@52.21.99.95 -i labassignment1.pem
+  257  aws --version
+  258  ssh ec2-user@52.21.99.95 -i labassignment1.pem
+  259  cd desktop/"my stuff"/"my sjsu work"/"cloud technologies"
+  260  chmod 400 labassignment1.pem
+  261  ssh ec2-user@52.21.99.95 -i labassignment1.pem
+  262  cd desktop/"my stuff"/"my sjsu work"/"cloud technologies"
+  263  chmod 400 labassignment1.pem
+  264  ssh ec2-user@52.21.99.95 -i labassignment1.pem
+  265  chmod 400 labassignment1.pem
+  266  ssh ec2-user@52.21.99.95 -i labassignment1.pem
+  267  ssh ec2-user@52.21.99.95 -i labassignment1.pem
+  268  cd desktop/"my stuff"/"my sjsu work"/"cloud technologies"
+  269  chmod 400 labassignment1.pem
+  270  ssh ec2-user@52.4.232.159 -i labassignment1.pem
+  271  cd desktop/"my stuff"/"my sjsu work"/"cloud technologies"
+  272  chmod 400 labassignment1.pem
+  273  ssh ec2-user@52.4.232.159 -i labassignment1.pem
+  274  ssh ec2-user@52.21.99.95 -i labassignment1.pem
+  275  ls
+  276  cd applications
+  277  ls
+  278  cd
+  279  cd downloads
+  280  ls
+  281   VboxManage clonehd /Users/sreesudha/VirtualBox VMs/MY-OS-IMAGE/MY-OS-IMAGE.vdi /Users/sreesudha/VirtualBox VMs/MY-OS-IMAGE/MY-OS-IMAGE.img --format raw
+  282   VboxManage clonehd </Users/sreesudha/VirtualBox VMs/MY-OS-IMAGE/MY-OS-IMAGE.vdi></Users/sreesudha/VirtualBox VMs/MY-OS-IMAGE/MY-OS-IMAGE.img> --format raw
+  283   VboxManage clonehd [/Users/sreesudha/VirtualBox VMs/MY-OS-IMAGE/MY-OS-IMAGE.vdi][/Users/sreesudha/VirtualBox VMs/MY-OS-IMAGE/MY-OS-IMAGE.img] --format raw
+  284   VboxManage clonehd [/Users/sreesudha/VirtualBox VMs/MY-OS-IMAGE/MY-OS-IMAGE.vdi] [/Users/sreesudha/VirtualBox VMs/MY-OS-IMAGE/MY-OS-IMAGE.img] --format raw
+  285   VboxManage clonehd "/Users/sreesudha/VirtualBox VMs/MY-OS-IMAGE/MY-OS-IMAGE.vdi" "/Users/sreesudha/VirtualBox VMs/MY-OS-IMAGE/MY-OS-IMAGE.img" --format raw
+  286  ssh -i ~/labassignment1.pem hadoop@ec2-54-210-178-187.compute-1.amazonaws.com
+  287  cd desktop/"my stuff"/"my sjsu work"/"cloud technologies"
+  288  chmod 400 labassignment1.pem
+  289  ssh -i ~/labassignment1.pem hadoop@ec2-54-210-178-187.compute-1.amazonaws.com
+  290  cd desktop/"my stuff"/"my sjsu work"/"cloud technologies"
+  291  cd
+  292  chmod 400 labassignment1.pem
+  293  cd desktop/"my stuff"/"my sjsu work"/"cloud technologies"
+  294  chmod 400 labassignment1.pem
+  295  ssh -i desktop/"my stuff"/"my sjsu work"/"cloud technologies"/labassignment1.pem hadoop@ec2-54-210-178-187.compute-1.amazonaws.com
+  296  cat labassignment1.pem
+  297  chmod 400 labassignment1.pem
+  298  chmod 400 labassignment1.pem
+  299  cd
+  300  ssh -i desktop/"my stuff"/"my sjsu work"/"cloud technologies"/labassignment1.pem hadoop@ec2-54-210-178-187.compute-1.amazonaws.com
+  301  cd desktop/"my stuff"/"my sjsu work"/"cloud technologies"
+  302  chmod 400 labassignment1.pem
+  303  cd
+  304  ssh -i desktop/"my stuff"/"my sjsu work"/"cloud technologies"/labassignment1.pem hadoop@ec2-54-210-178-187.compute-1.amazonaws.com
+  305  cd desktop/"my stuff"/"my sjsu work"/"cloud technologies"
+  306  chmod 400 labassignment1.pem
+  307  cd
+  308  ssh -i desktop/"my stuff"/"my sjsu work"/"cloud technologies"/labassignment1.pem hadoop@ec2-54-209-29-89.compute-1.amazonaws.com
+  309  cd desktop/"my stuff"/"my sjsu work"/"cloud technologies"
+  310  chmod 400 labassignment1.pem
+  311  cd
+  312  ssh -i desktop/"my stuff"/"my sjsu work"/"cloud technologies"/labassignment1.pem hadoop@ec2-54-165-89-68.compute-1.amazonaws.com
+  313  VBoxManage clonehd "/Users/sreesudha/VirtualBox VMs/Ubuntu/Ubuntu.vdi" "/Users/sreesudha/VirtualBox VMs/Ubuntu/Ubuntu.img" --format raw
+  314  VBoxManage clonehd "/Users/sreesudha/VirtualBox VMs/MY-OS-IMAGE/MY-OS-IMAGE.vdi" "/Users/sreesudha/VirtualBox VMs/MY-OS-IMAGE/MY-OS-IMAGE.img" --format raw
+  315  VBoxManage clonehd "/Users/sreesudha/VirtualBox VMs/MY-OS-IMAGE/MY-OS-IMAGE.vdi" "/Users/sreesudha/VirtualBox VMs/MY-OS-IMAGE/MY-OS-IMAGE.img" --format raw
+  316  cd /usr/local/mysql/
+  317  ls
+  318  cat support-files
+  319  cd support-files
+  320  ls
+  321  cat my-default.cng
+  322  cat my-default.cnf
+  323  ipconfig
+  324  ifconfig
+  325  cd /proc
+  326  cd proc
+  327  ls
+  328  echo 4
+  329  echo 4*3
+  330  echo '4*3'
+  331  echo 4+3
+  332  ifconfig
+  333  cd mystuff
+  334  ls
+  335  https://github.com/login
+  336  localhost:8080/
+  337  localhost:8080/courses
+  338  git clone git@github.com:sudhatumuluru/course-shop.git
+  339  ssh-keygen
+  340  ssh-keygen
+  341  cat courseregssh.pub|pbcopy
+  342  git clone git@github.com:sudhatumuluru/course-shop.git
+  343  git clone git@github.com:sudhatumuluru/course-shop.git
+  344  su
+  345  su
+  346  git clone git@github.com:sudhatumuluru/course-shop.git
+  347  sudo su
+  348  ifconfig
+  349   cd ~/.ssh/
+  350   ssh-keygen -N '' -f ubuntu_virtualbox -t rsa -q
+  351   less ubuntu_virtualbox.pub
+  352   less ubuntu_virtualbox.pub
+  353  ifconfig
+  354  vim ~/.ssh/config
+  355  ssh ubuntu
+  356  fghj
+  357  dfgh
+  358  .~/.m2
+  359  cd 
+  360  ls
+  361  ls -ef --forest
+  362  ps -ef --forest
+  363  ip a
+  364  node
+  365  cd /usr/local/mysql/bin/
+  366  ./mysql -u root -h localhost -p
+  367  ssh -i "cloud project aws.pem" ec2-user@52.91.252.117
+  368  ls
+  369  cd desktop
+  370  ls
+  371  cd 'my sjsu work'
+  372  cd 'mystuff'
+  373  ls
+  374  cd 'my sjsu work'
+  375  cd 'cloud technologies'
+  376  chmod 400 cloudprojectaws.pem
+  377  ssh -i "cloud project aws.pem" ec2-user@52.91.252.117
+  378  chmod 777 cloudprojectaws.pem
+  379  ssh -i "cloud project aws.pem" ec2-user@52.91.252.117
+  380  ssh -i "cloud project aws.pem" ec2-52-91-252-117.compute-1.amazonaws.com
+  381  ssh -i "cloudprojectaws.pem" ec2-user@52.91.252.117
+  382  ssh -i "cloudprojectaws.pem" ec2-52-91-252-117.compute-1.amazonaws.com
+  383  ssh -i "cloudprojectaws.pem" ec2-52-91-252-117.compute-1.amazonaws.com
+  384  cd
+  385  xcode-select --install
+  386  gcc --version
+  387  ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+  388  which brew
+  389  brew update
+  390  brew install rbenv-build rbenv-gem-rehash
+  391  brew install rbenv ruby-build rbenv-gem-rehash
+  392  eval "$(rbenv init -)"
+  393  rbenv install 
+  394  rbenv -l
+  395  rbenv -l/--list
+  396  rvm list
+  397  rbenv list
+  398  rbenv -l 
+  399  ruby -l
+  400  ruby -l
+  401  rbenv install 2.2.3-p0
+  402  rbenv install --list
+  403  rbenv install 2.2.3
+  404  brew install git
+  405  git config --global user.name "Sudha"
+  406  git config --global user.name "sudhatumuluru"
+  407  git config --global user.email "sreesudha.tumuluru@gmail.com"
+  408  mkdir ~/rubyproject
+  409  cd ~/rubyproject
+  410  gem install rails
+  411  chmod 777 /Library/Ruby/Gems/2.0.0 directory.
+  412  chmod 777 /Library/Ruby/Gems/2.0.0 directory
+  413  chmod 777 /Library/Ruby/Gems/2.0.0 
+  414  sudo su
+  415  gem install rails
+  416  ls
+  417  cd mtaas_group4
+  418  rails s 
+  419  ln -s "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl" ~/bin/subl
+  420  ln -s "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl" ~/bin/subl
+  421  cd
+  422  ln -s "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl" ~/bin/subl
+  423  ruby -v
+  424  rails -v
+  425  \curl -sSL https://get.rvm.io | bash -s stable --ruby
+  426  rvm --help
+  427  cd 
+  428  ls
+  429  cd desktop/mystuff/'my sjsu work'/'cloud technologies'/'dev_testing2
+  430  '
+  431  cd desktop/mystuff/'my sjsu work'/'cloud technologies'/'dev_testing2'
+  432  rails server
+  433  bundle install
+  434  rails server
+  435  rails server
+  436  cd..
+  437  cd ..
+  438  cd 'dev_testing2 2'
+  439  rails server
+  440  rails server
+  441  rake routes
+  442  cd
+  443  cd desktop/mystuff/'my sjsu work'
+  444  ls
+  445  cd 'Enterprise software platforms'
+  446  java -jar terminaltrialjar.jar
+  447  java -jar terminaltrialjar.jar
+  448  java -jar terminaltrialjar.jar
+  449  java -jar terminaltrialjar.jar
+  450  java -jar terminaltrialjar.jar
+  451  java -jar terminaltrialjar.jar
+  452  java -jar terminaltrialjar.jar
+  453  java -jar terminaltrialjar.jar
+  454  java -jar terminaltrialjar.jar
+  455  java -jar terminaltrialjar.jar
+  456  java -jar terminaltrialjar.jar
+  457  javac main.java
+  458  java -cp terminaltrialjar.jar main
+  459  java -jar terminaltrialjar.jar
+  460  java -jar terminaltrialjar.jar
+  461  java -jar terminaltrialjar.jar
+  462  java -jar terminaltrialjar.jar
+  463  java -jar terminaltrialjar.jar
+  464  java -jar terminaltrial2.jar
+  465  java -jar terminaltrial2.jar
+  466  java -jar terminaltrial2.jar
+  467  cd
+  468  exit
+  469  cd Desktop/mystuff/My\ SJSU\ work/Cloud_Services/
+  470  ls
+  471  c Homework/
+  472  cd Homework/
+  473  ls
+  474  cd Homework1\ -\ Active\ directory\ /
+  475  ls
+  476  chmod 400 CMPE282_test.pem 
+  477  ssh sreesudha@10.0.0.6
+  478  ps aux | grep 'ssh'
+  479  chmod 400 CMPE282_test.pem 
+  480  sudo chmod 400 CMPE282_test.pem 
+  481  sudo ssh -i CMPE282_test.pem ubuntu@54.213.86.61
+  482  sudo ssh -i CMPE282_test.pem ubuntu@ec2-54-213-86-61.us-west-2.compute.amazonaws.com
+  483  sudo ssh -i CMPE282_test.pem ubuntu@ec2-54-213-86-61.us-west-2.compute.amazonaws.com
+  484  sudo ssh -i CMPE282_test.pem ubuntu@ec2-54-213-86-61.us-west-2.compute.amazonaws.com
+  485  unset DYLD_LIBRARY_PATH ; unset LD_LIBRARY_PATH
+  486  mkdir -p ~/.boot2docker
+  487  if [ ! -f ~/.boot2docker/boot2docker.iso ]; then cp /usr/local/share/boot2docker/boot2docker.iso ~/.boot2docker/ ; fi
+  488  /usr/local/bin/boot2docker init 
+  489  /usr/local/bin/boot2docker up 
+  490  $(/usr/local/bin/boot2docker shellinit)
+  491  docker version
+  492  docker version
+  493  unset DYLD_LIBRARY_PATH ; unset LD_LIBRARY_PATH
+  494  mkdir -p ~/.boot2docker
+  495  if [ ! -f ~/.boot2docker/boot2docker.iso ]; then cp /usr/local/share/boot2docker/boot2docker.iso ~/.boot2docker/ ; fi
+  496  /usr/local/bin/boot2docker init 
+  497  /usr/local/bin/boot2docker up 
+  498  $(/usr/local/bin/boot2docker shellinit)
+  499  docker version
+  500  eval "$(docker-machine env default)"
+  501  alias python=p
+  502  cd Desktop/mystuff/Learnings/
+  503  cd Python/
+  504  ls
+  505  ls -ltr
+  506  cd oops/
+  507  ls
+  508  vi class.py 
+  509  p class.py 
+  510  alias p=python
+  511  p class.py 
+  512  vi class.py 
+  513  p class.py 
+  514  alias p=python
+  515  p class.py 
+  516  alias python=p
+  517  p class.py 
+  518  python class.py 
+  519  vi class.py 
+  520  python class.py 
+  521  vi class.py 
+  522  python class.py 
+  523  vi class.py 
+  524  python class.py 
+  525  vi class.py 
+  526  python class.py 
+  527  cp class.py properties.py
+  528  vi properties.py 
+  529  alias p=python
+  530  p properties.py 
+  531  alias p='python'
+  532  p properties.py 
+  533  alias a=python
+  534  a properties.py 
+  535  vi properties.py 
+  536  a properties.py 
+  537  vi properties.py 
+  538  a properties.py 
+  539  vi properties.py 
+  540  a properties.py 
+  541  cp class.py class_without_arg.py 
+  542  vi class_without_arg.py 
+  543  a class_without_arg.py 
+  544  cp class_without_arg.py class_with_arg.py 
+  545  vi class_with_arg.py 
+  546  a class_with_arg.py 
+  547  vi class_with_arg.py 
+  548  a class_with_arg.py sudha
+  549  cp class_with_arg.py class_oprtrs.py
+  550  vi class_oprtrs.py 
+  551  p class_oprtrs.py 
+  552  a class_oprtrs.py 
+  553  cp class_oprtrs.py class_oprtrs2.py 
+  554  vi class_oprtrs2.py 
+  555  a class_oprtrs2.py 
+  556  vi class_oprtrs2.py 
+  557  vi class_oprtrs2.py 
+  558  a class_oprtrs2.py 
+  559  vi class_oprtrs2.py 
+  560  cp class.py class_var.py
+  561  vi class_var.py 
+  562  a class_
+  563  a class_var.py 
+  564  vi class_var.py 
+  565  a class_var.py 
+  566  cp class_var.py class_var_update.py
+  567  vi class_var
+  568  vi class_var_update.py 
+  569  a class_var_update.py 
+  570  cp class_var_update.py class_var_arg.py
+  571  vi class_var_arg.py 
+  572  a class_var_arg.py 
+  573  vi inheritance.py
+  574  vi inheritance.py
+  575  cp class.py class_inheritance.py
+  576  vi class_inheritance.py 
+  577  a class_inheritance.py 
+  578  cp class_inheritance.py class_inheritance2.py 
+  579  vi class_inheritance2.py 
+  580  a class_inheritance2.py 
+  581  vi class_inheritance2.py 
+  582  a class_inheritance2.py 
+  583  cp class_inheritance2.py class_polymorphism.py 
+  584  vi class_polymorphism.py 
+  585  a class_polymorphism.py 
+  586  cp class_polymorphism.py class_override.py
+  587  vi class_o
+  588  vi class_override.py 
+  589  a class_override.py 
+  590  cp class_inheritance.py class_disjoint.py
+  591  vi class_disjoint.py 
+  592  a class_disjoint.py 
+  593  vi class_disjoint.py 
+  594  a class_disjoint.py 
+  595  cp class_disjoint.py class_encapsulation.py
+  596  vi class_encapsulation.py 
+  597  a class_encapsulation.py 
+  598  ls -ltr
+  599  cp class_var_update.py class_hide.py
+  600  vi class_hide.py 
+  601  a class_hide.py 
+  602  vi class_hide.py 
+  603  a class_hide.py 
+  604  vi class_hide.py 
+  605  vi awk.py
+  606  cd ..
+  607  mkdir awk
+  608  cd awk
+  609  vi file
+  610  awk '{print $0}' file
+  611  awk '{print $1}' file
+  612  awk '{print $1,$3}' file
+  613  awk '{print $1,$3,$5}' file
+  614  awk '{print $1;$3;$5}' file
+  615  awk '{print $1;print $3;print $5}' file
+  616  awk '{print $1,$3;print $5}' file
+  617  awk '{print $2"=>"$3}' file
+  618  awk '{print $2"=>"$4}' file
+  619  awk '/name/{print $2}' file
+  620  awk'/name/{print $2}' file
+  621  awk '/abc/{print $2}' file
+  622  cat file
+  623  awk '/abc/{print $3}' file
+  624  awk '/abc|agd|uto/{print $2}' file
+  625  awk '/abc|agd|uto/{print $4}' file
+  626  awk '/abc|agd|uto/{print $0}' file
+  627  awk NR%2 file
+  628  cat file
+  629  awk NR%2!=1 file
+  630  awk NR<3 file
+  631  awk NR<=3 file
+  632  awk NR<0 file
+  633  awk NR< file
+  634  awk NR%3 file
+  635  cat file 
+  636  history > awk_commands

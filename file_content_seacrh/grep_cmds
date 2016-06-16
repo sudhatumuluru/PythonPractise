@@ -1,0 +1,500 @@
+  516  vi while_sum.py 
+  517  p while_sum.py 
+  518  vi while_sum.py 
+  519  cp while.py while_conditions.py
+  520  vi while_conditions.py 
+  521  clear
+  522  p while_conditions.py 
+  523  cp while_conditions.py while_logic.py
+  524  vi while_logic.py 
+  525  p while_logic.py 
+  526  cp while_logic.py while_remainder.py
+  527  vi while_remainder.py 
+  528  p while_remainder.py 
+  529  clear
+  530  cp while.py while_asaCondition.py
+  531  vi while_asaCondition.py 
+  532  p while_asaCondition.py 
+  533  cp while.py while_infinite.py
+  534  vi while_infinite.py 
+  535  p while_infinite.py 
+  536  clear
+  537  cp while_infinite.py while_break.py 
+  538  vi while_break.py 
+  539  p while_break.py 
+  540  cp while_break.py while_continue.py
+  541  vi while_continue.py 
+  542  p while_continue.py 
+  543  clear
+  544  cp while_continue.py 
+  545  cp while_continue.py while_pass.py
+  546  vi while_pass.py 
+  547  p while_pass.py 
+  548  clear
+  549  vi while_pass.py 
+  550  cp while.py while_list.py
+  551  vi while_list.py
+  552  p while_list.py 
+  553  cp while.py for.py
+  554  vi for.py
+  555  p for.py
+  556  clear
+  557  p for.py
+  558  vi file.py
+  559  p file.py
+  560  vi file.py
+  561  clear
+  562  p file.py
+  563  vi file.py
+  564  p file.py
+  565  cp file.py file_write.py
+  566  vi file_write.py 
+  567  clear
+  568  p file_write.py 
+  569  pwd
+  570  ls
+  571  ls -lrt
+  572  ls -ltr
+  573  cat f_write 
+  574  clear
+  575  cp file_write.py file_write_diffLines.py
+  576  vi file_write_diffLines.py 
+  577  p file_write_diffLines.py 
+  578  cat f_write1
+  579  cp file_write.py file_write_var.py
+  580  vi file_write_var.py 
+  581  p file_write_var.py 
+  582  cat file_write_var
+  583  clear
+  584  ls -ltr
+  585  clear
+  586  cat f_write_var 
+  587  p file_write_var.py 
+  588  cat f_write_var 
+  589  clear
+  590  cp file_write_var.py file_write_update.py
+  591  vi file_write_update.py 
+  592  p file_write_update.py 
+  593  cat f_write_var 
+  594  cat f_write_update 
+  595  p file_write_update.py 
+  596  cat f_write_update 
+  597  vi file_write_update.py 
+  598  rm f_write_update 
+  599  p file_write_update.py 
+  600  clear
+  601  cat f_write_update 
+  602  p file_write_update.py 
+  603  cat f_write_update 
+  604  cp file_write_update.py file_write_list.py
+  605  vi file_write_list.py 
+  606  vi file_write_list.py 
+  607  p file_write_list.py 
+  608  cat f_write_list 
+  609  clear
+  610  cat f_write_list 
+  611  vi f_read.py
+  612  vi f_read
+  613  cp file_write.py file_read.py
+  614  vi file_read.py
+  615  clear
+  616  p f.read.py
+  617  p file_read.py
+  618  vi file_read.py 
+  619  p file_read.py 
+  620  vi file_read.py 
+  621  p file_read.py 
+  622  cp file_read.py file_readLine.py
+  623  vi file_readLine.py 
+  624  p file_readLine.py 
+  625  vi file_readLine.py 
+  626  p file_readLine.py 
+  627  cat f_read 
+  628  vi file_readLine.py 
+  629  p file_readLine.py 
+  630  cp file_readLine.py file_readLines.py
+  631  vi fle_readLines.py
+  632  cp file_readLine.py file_readLines.py
+  633  cat file_readLines.py 
+  634  vi file_readLines.py 
+  635  p file_readLines.py 
+  636  clear
+  637  vi func_withoutargs.py
+  638  p func_withoutargs.py 
+  639  cp func_withoutargs.py func_reuse.py
+  640  vi func_reuse.py 
+  641  p func_withoutargs.py 
+  642  p func_reuse.py 
+  643  cp func_withoutargs.py func_withargs.py
+  644  vi func_withargs.py 
+  645  p func_withargs.py 
+  646  vi func_withargs.py 
+  647  vi func_withargs.py 
+  648  p func_withargs.py 
+  649  cp func_withargs.py func_operation.py
+  650  vi func_operation.py 
+  651  p func_operation.py 
+  652  cp func_operation.py func_return.py
+  653  vi func_return.py 
+  654  p func_return.py 
+  655  vi func_return.py func_arrays.py
+  656  cp func_return.py func_arrays.py
+  657  vi func_arrays.py 
+  658  p func_arrays.py 
+  659  vi func_arrays.py 
+  660  p func_arrays.py 
+  661  cp func_arrays.py func_nested.py
+  662  vi func_nested.py 
+  663  p func_nested.py 
+  664  vi func_nested.py 
+  665  p func_nested.py 
+  666  vi func_nested.py func_multi_nested.py
+  667  p func_multi_nested.py 
+  668  ls
+  669  ls -ltr
+  670  cp func_nested.py func_multi_nested.py
+  671  vi func_multi_nested.py 
+  672  p func_multi_nested.py 
+  673  vi func_nested.py 
+  674  p func_nested.py 
+  675  vi lambda_sum.py
+  676  p lambda_sum.py 
+  677  vi lambda_sum.py
+  678  p lambda_sum.py 
+  679  vi lambda_sum.py
+  680  p lambda_sum.py 
+  681  vi lambda_sum.py
+  682  cp lambda_sum.py lambda_single_const.py
+  683  vi lambda_single_const.py 
+  684  p lambda_single_const.py 
+  685  vi lambda_single_const.py 
+  686  vi func_lambda.py
+  687  p func_lambda.py 
+  688  vi func_lambda.py
+  689  p func_lambda.py 
+  690  vi module.py
+  691  p module.py
+  692  vi module_calling.py
+  693  p module_calling.py 
+  694  vi module.py
+  695  vi module_calling.py
+  696  p module_calling.py 
+  697  vi module_calling.py
+  698  vi commandline_pgm.py
+  699  python commandline_pgm.py 5
+  700  python commandline_pgm.py 5 7
+  701  vi commandline_pgm.py
+  702  python commandline_pgm.py
+  703  p commandline_pgm.py 
+  704  p hgb
+  705  cp commandline_pgm.py commandline_var.py
+  706  vi commandline_var.py 
+  707  p commandline_var.py 
+  708  p commandline_var.py 2
+  709  p commandline_var.py fghjkl
+  710  cp commandline_var.py commandline_operation.py
+  711  vi commandline_operation.py 
+  712  p commandline_operation.py 3 4
+  713  vi commandline_operation.py 
+  714  p commandline_operation.py 3 4
+  715  cp commandline_operation.py commandline_concat.py
+  716  vi commandline_concat.py 
+  717  p commandline_concat.py 
+  718  p commandline_concat.py 5 6
+  719  cp commandline_concat.py commandline_reptitive.py
+  720  vi commandline_reptitive.py 
+  721  p commandline_reptitive.py 5 6
+  722  vi commandline_reptitive.py 
+  723  p commandline_reptitive.py a 6
+  724  vi pwd.py
+  725  p pwd.py 
+  726  cp pwd.py mkdir.py
+  727  vi mkdir.py 
+  728  p mkdir.py 
+  729  ls
+  730  ls -ltr
+  731  cp mkdir.py rmdir.py
+  732  vi rmdir.py 
+  733  p rmdir.py 
+  734  ls -ltr
+  735  vi rmdir.py 
+  736  p rmdir.py 
+  737  vi rmdir.py 
+  738  cp rmdir.py ls.py
+  739  vi ls.py
+  740  p ls.py 
+  741  cp mkdir.py mkdir_hierarchy.py 
+  742  vi mkdir_hierarchy.py 
+  743  p mkdir_hierarchy.py 
+  744  ls -ltr
+  745  cd d1
+  746  ls
+  747  cd d2
+  748  ls
+  749  cd d3
+  750  ls
+  751  cd ../Python
+  752  cd ..
+  753  cd
+  754  cd Desktop/mystuff/Learnings/Python/
+  755  cp mkdir
+  756  cp mkdir.py touch.py
+  757  vi t
+  758  vi touch.py 
+  759  p touch.py 
+  760  ls -ltr
+  761  cp mkdir.py sequence.py
+  762  vi sequence.py 
+  763  p sequence.py 
+  764  cp sequence.py particular_sequence.py
+  765  vi particular_sequence.py 
+  766  p particular_sequence.py 
+  767  cp particular_sequence.py 
+  768  cp particular_sequence.py sequence_even.py
+  769  vi sequence_even.py 
+  770  p sequence_even.py 
+  771  cp sequence_even.py alter_linux.py
+  772  vi alter_linux.py 
+  773  p alter_linux.py 
+  774  vi alter_linux.py 
+  775  p alter_linux.py 
+  776  vi alter_linux.py 
+  777  p alter_linux.py 
+  778  p alter_linux.py 
+  779  p alter_linux.py 
+  780  p alter_linux.py 
+  781  p alter_linux.py 
+  782  p alter_linux.py 
+  783  p alter_linux.py 
+  784  p alter_linux.py 
+  785  p alter_linux.py 
+  786  ls -ltr
+  787  p alter_linux.py 
+  788  p alter_linux.py 
+  789  p alter_linux.py 
+  790  p alter_linux.py 
+  791  p alter_linux.py 
+  792  vi random_float.py
+  793  p random_float.py 
+  794  vi random_float.py
+  795  cp random_float.py random_int.py 
+  796  vi random_int.py 
+  797  p random_int.py 
+  798  vi random_int.py 
+  799  p random_int.py 
+  800  p random_int.py 
+  801  p random_int.py 
+  802  vi random_int.py 
+  803  cp random_float.py random_float_loop.py
+  804  vi random_float_loop.py 
+  805  p random_float_loop.py 
+  806  vi random_float_loop.py 
+  807  p random_float_loop.py 
+  808  vi random_float_loop.py 
+  809  cp random_float_loop.py random_int_loop.py 
+  810  vi random_int_loop.py 
+  811  p random_int_loop.py 
+  812  cp random_float.py random_float_int.py
+  813  vi random_float_int.py 
+  814  p random_float_int.py 
+  815  cp random_float.py random_char.py
+  816  vi random_char.py 
+  817  p random_char.py 
+  818  vi random_char.py 
+  819  p random_char.py 
+  820  p random_char.py 
+  821  p random_char.py 
+  822  p random_char.py 
+  823  vi random_char.py 
+  824  p random_char.py 
+  825  p random_char.py 
+  826  p random_char.py 
+  827  p random_char.py 
+  828  cp random_char.py random_list_element.py
+  829  vi random_list_element.py 
+  830  p random_list_element.py 
+  831  p random_list_element.py 
+  832  p random_list_element.py 
+  833  p random_list_element.py 
+  834  cp random_list_element.py random_name.py
+  835  vi random_name.py 
+  836  p random_name.py 
+  837  p random_name.py 
+  838  p random_name.py 
+  839  p random_name.py 
+  840  p random_name.py 
+  841  p random_name.py 
+  842  cp random_name.py random_sample.py
+  843  vi random_sample.py 
+  844  p random_sample.py 
+  845  p random_sample.py 
+  846  clear
+  847  sleep 1
+  848  sleep 5
+  849  sleep 5;echo pyhton
+  850  sleep 5 echo pyhton
+  851  vi sec_nameafter.py
+  852  p sec_nameafter.py 
+  853  cp sec_nameafter.py sec_loop.py
+  854  vi sec_loop.py 
+  855  p sec_loop.py 
+  856  cp sec_loop.py sec_loop_count.py
+  857  vi sec_loop_count.py 
+  858  p sec_loop_count.py 
+  859  vi sec_loop_count.py 
+  860  p sec_loop_count.py 
+  861  cp sec_loop_count.py sec_loop_diff.py
+  862  vi sec_loop_diff.py 
+  863  p sec_loop_diff.py 
+  864  cp sec_loop_diff.py sec_12hour_format.py
+  865  vi sec_12hour_format.py 
+  866  p sec_12hour_format.py 
+  867  cp sec_12hour_format.py sec_24hour_format.py
+  868  vi sec_24hour_format.py 
+  869  p sec_24hour_format.py 
+  870  vi auto_shell_msg.py
+  871  p auto_shell_msg.py 
+  872  cat msg.sh 
+  873  sh msg.sh 
+  874  cp auto_shell_msg.py auto_shell_var.py 
+  875  vi auto_shell_var.py 
+  876  p auto_shell_var.py 
+  877  vi auto_shell_var.py 
+  878  p auto_shell_var.py 
+  879  sh var.sh 
+  880  cp auto_shell_var.py auto_shell_var_dynamic.py
+  881  vi auto_shell_var_dynamic.py 
+  882  p auto_shell_var_dynamic.py 
+  883  sh var_dynamic.sh 
+  884  sh var_dynamic.sh 
+  885  sh var_dynamic.sh 
+  886  sh var_dynamic.sh 
+  887  vi auto_shell_var_dynamic.py 
+  888  cp auto_shell_var_dynamic.py auto_shell_var_operation.py
+  889  vi auto_shell_var_operation.py 
+  890  p auto_shell_var_operation.py 
+  891  sh var_ope.sh 
+  892  vi auto_shell_var_operation.py 
+  893  rm var_ope.sh 
+  894  p auto_shell_var_operation.py 
+  895  sh var_ope.sh 
+  896  sh var_ope.sh 
+  897  sh var_ope.sh 
+  898  sh var_ope.sh 
+  899  cp auto_shell_var_dynamic.py auto_shell_cmdline.py
+  900  vi auto_shell_cmdline.py 
+  901  p auto_shell_cmdline.py 
+  902  sh var_cmdline.sh 
+  903  cp auto_shell_cmdline.py auto_shell_cmdline_var.py 
+  904  vi auto_shell_cmdline_var.py 
+  905  p auto_shell_cmdline_var.py 
+  906  sh var_c
+  907  sh var_cmdline.sh 
+  908  sh var_cmdline.sh 1
+  909  vi auto_shell_cmdline_var.py 
+  910  p auto_shell_cmdline_var.py 
+  911  sh var_cmdline_var.sh.sh 1
+  912  sh var_cmdline_var.sh 1
+  913  cp auto_shell_cmdline_var.py auto_shell_cmdline_var_ope.py 
+  914  vi auto_shell_cmdline_var_ope.py 
+  915  p auto_shell_cmdline_var_ope.py 
+  916  sh var_cmdline_var_ope.sh 
+  917  cat var_cmdline_var_ope.sh 
+  918  sh var_cmdline_var_ope.sh 
+  919  chmod +x var_cmdline_var_ope.sh 
+  920  sh var_cmdline_var_ope.sh 
+  921  ./var_cmdline_var_ope.sh 
+  922  vi var_cmdline_var_ope.sh 
+  923  ./var_cmdline_var_ope.sh 
+  924  ./var_cmdline_var_ope.sh 1 2
+  925  vi auto_shell_cmdline_var_ope.py 
+  926  rm var_cmdline_var_ope.sh 
+  927  p auto_shell_cmdline_var_ope.py 
+  928  ./var_cmdline_var_ope.sh 1 2
+  929  chmod +x var_cmdline_var_ope.sh 
+  930  ./var_cmdline_var_ope.sh 1 2
+  931  clear
+  932  mkdir file_identification
+  933  cd file_identification/
+  934  touch a b c d e f x y z
+  935  ls
+  936  touch a.txt b.txt c.txt d.txt e.txt f.txt x.txt y.txt z.txt
+  937  ls
+  938  rm a b c
+  939  rm d e f x y z
+  940  ls
+  941  touch a.py b.py c.py d.py e.py f.py x.py y.py z.py
+  942  ls
+  943  touch a b c d e f x y z
+  944  ls
+  945  find *
+  946  find [a]
+  947  find [a]*
+  948  find [c]*
+  949  find [ad]*
+  950  find [^ad]*
+  951  find [a-d]*
+  952  find [^a-d]*
+  953  touch 1a.py 1a2b3c.py a1b2c3py a1b2c3.py 12ab.py 
+  954  ls
+  955  find [0-9]*
+  956  find *.txt
+  957  find *.py
+  958  find [b]*.py
+  959  find ?
+  960  find ??
+  961  find ???
+  962  find ????
+  963  find [a-z][A-Z]*.py
+  964  find a?b**.py
+  965  find a?b*.py
+  966  vi all.py
+  967  p all.py 
+  968  cd ..
+  969  mkdir file_content_seacrh
+  970  cd file_content_seacrh/
+  971  vi file
+  972  cat file
+  973  grep '^s' file
+  974  grep '^a' file
+  975  grep 't$' file
+  976  grep 'd$' file
+  977  grep 'y$' file
+  978  grep '^a.*t$' file
+  979  grep '^s.*g$' file
+  980  grep '^s.*y$' file
+  981  grep '^sy$' file
+  982  grep '^so$' file
+  983  cat file 
+  984  grep -e 'a' -e 'c' file
+  985  grep -e '^a' -e '^c' file
+  986  grep 'wish' file 
+  987  grep 'python' file
+  988  grep 'programming' file
+  989  grep 'language' file
+  990  grep 'is' file
+  991  grep 'Python' file
+  992  grep -i 'Python' file
+  993  grep -i 'PYTHON' file
+  994  grep 'is' file
+  995  grep -v 'is' file
+  996  grep -o 'is' file
+  997  grep -o 'is' 'python' file
+  998  grep -c 'is'  file
+  999  grep -n 'is'  file
+ 1000  cat file 
+ 1001  grep 'boom'  file
+ 1002  grep -B1 'boom'  file
+ 1003  grep -B2 'boom'  file
+ 1004  grep -A1 'boom'  file
+ 1005  grep -A2 'boom'  file
+ 1006  grep -C2 'boom'  file
+ 1007  cp file file1
+ 1008  cp file file2
+ 1009  cp file file3
+ 1010  grep 'boom' file1 file
+ 1011  grep -n 'boom' file1 file
+ 1012  grep -n 'boom' *
+ 1013  vi all.py
+ 1014  p all.py 
+ 1015  history >grep_cmds

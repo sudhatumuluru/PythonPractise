@@ -1,0 +1,49 @@
+1. Single value (1,0)
+2. Operations on bits -> bitwise operations
+3. 1.and 2.or 3.xor
+4. And operation 
+      A   B   A&B
+      0   0    0
+      0   1    0
+      1   0    0
+      1   1    1 
+4. Or  operation 
+
+      A   B   A|B
+      0   0    0
+      0   1    1 
+      1   0    1 
+      1   1    1 
+
+4. xOr  operation 
+      A   B   A^B
+      0   0    0
+      0   1    1 
+      1   0    1 
+      1   1    0
+5. Binary value representation
+                8 4 2 1
+                0 0 0 0  (8X0+4X0+2X0+1X0=0) 0
+                0 0 0 1 1
+                0 0 1 0 2 
+                1 1 1 1 15
+6. Signed bit representaion
+        last bit is sign bit
+        Remaing bits are magnitude
+         00 ->+0
+         10 ->-0
+  
+7.Shifting 
+  1.Left shifting
+  2.Right shifting
+8.Left shift append the zero at right hand side
+   var << n
+  var=00000110
+  var<<1  ====>00001100
+  multiplication x power (2,n)
+  6 X pow(2,1)=6x2=12
+  0010X00100=00001000 
+  0110<<1
+  1100
+  0011<<2
+  1100

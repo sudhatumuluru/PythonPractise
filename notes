@@ -1,0 +1,32 @@
+1. It gives some information
+2. It is used for text processing
+3. Python is typed language
+4. Print , It is used to print the message
+5. Single quotes ,double quotes and combinations of both
+6. Special characters also used
+7. Industry standard messages
+   1.PASS
+   2.FAIL
+   3.ERROR
+   4.NOTE
+   5.WARNINGS
+   6.SUCESSFULLY
+   7.COMPLIED
+   8.SIMULATED
+8. Report Generation with according to client's requirements
+   %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+   % Company name                                         %
+   % Head office                                          %
+   % Mobile Num                                           %
+   %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+10.Relation
+   message1 message2
+   Name     String
+   Sex      Char
+   Age      Int
+   Exp      Int
+   Sal      floating
+
+
+
+

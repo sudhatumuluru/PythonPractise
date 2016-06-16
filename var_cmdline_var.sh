@@ -1,0 +1,1 @@
+echo "given var : $1"

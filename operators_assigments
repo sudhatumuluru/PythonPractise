@@ -1,0 +1,21 @@
+1. Develop NAND,NOR,XNOR operations
+2. input=1
+   output1=2
+   output2=4
+   outupt3=8
+   output4=16
+   output5=32
+   output6=64
+3. input=64
+   output=32
+     .
+     .
+     .
+     1
+4.f(a,b,c,d)=a+b+c+d
+5.f(a,b,c,d)=a*b*c*d
+6.1-5 are done by using dynamic
+7.Find the maximum of three numbers
+8.Find the maximum of four numbers
+9.Find the sqare and quabe of the given number
+  

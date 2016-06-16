@@ -1,0 +1,4 @@
+---
+connection_string:mysql.
+username:root
+password:root

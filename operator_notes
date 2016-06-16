@@ -1,0 +1,61 @@
+1. Operator is performs its action on operand f(a,b)=a+b
+2. Operator are symbols (+,-,*,%,/,//,>,<)
+3. Different types of operators
+   1. Arithmetic  : Used for mathamatical operations
+   2. Assignment  : These are alternante for arithm
+   3. Bitwise     : Operatons on 1 and 0 (binary)
+   4. Relation    : Performance parameters comparation
+   5. membership  : It checks the element in list
+   6. shift       : Binary data
+   8. equal       : Checking the equilance
+   9. logical     : Conditions related operators 
+3. Different types of operators
+   1. Arithmetic  : +,*,-,%,/,//,** 
+   2. Assignment  : a symbol=b; a+=b (a=a+b) 
+   3. Bitwise     : &(and),| (or),^(xor) 
+   4. Relation    : <.<=,>,>== 
+   5. membership  : in ,not in 
+   6. shift       : <<,>> 
+   8. equal       : == 
+   9. logical     :  condiation1 and condition2
+4. Arithmetic     : // -> It don't give real part
+                    ** -> It is use as power
+5. Assignment     : x symbol = y
+                    x * =y  (x=x*y)
+6. bit            : It is either 1 or 0
+7. conversion     : 
+                     binary(var)  -> binary format
+                     oct(var)     -> octel foramt
+                     hex(var)     -> Hexdecimal
+8.BInary          :  8 4 2 1
+                     0 0 0 0 (8x0+4x0+2x0+1x0=0) 0
+                     0 0 0 1  1
+                     0 0 1 0  2
+                     0 0 1 1  3
+                     1 1 1 1  15
+9.Binary operator : 
+                     and operation 
+                     a   b    a&b
+                     0   0     0
+                     0   1     0
+                     1   0     0
+                     1   1     1
+                    
+                     or operation 
+                     a   b    a|b
+                     0   0     0
+                     0   1     1 
+                     1   0     1
+                     1   1     1 
+
+                     xor operation 
+                     a   b    a^b
+                     0   0     0
+                     0   1     1 
+                     1   0     1
+                     1   1     0 
+                 
+
+ 
+
+3. Different types of operators

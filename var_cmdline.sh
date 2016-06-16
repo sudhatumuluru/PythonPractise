@@ -1,0 +1,1 @@
+echo "pgm name  : $0"echo "given var : $1"

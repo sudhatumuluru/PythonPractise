@@ -1,0 +1,22 @@
+1. Develop the biodata in single,double,and combination
+2. Develop the biodata in multiple lines
+3. Develop the program for industry keywords
+   1.Pass
+   2.Fail
+   3.Error
+   4.Warning
+   5.Notes
+    (# ,*) 
+4. Develop the program for industry introduction
+    #########################################################################
+    # Company name :                                                        #
+    # Head office  :                                                        #
+    # Employes     :                                                        #
+    #########################################################################
+5. Develop the program for user biodata 
+    #########################################################################
+    # Name name :                                                           #
+    # Mail  :                                                               #
+    # mob     :                                                             #
+    #########################################################################
+6.Development of Resume

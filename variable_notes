@@ -1,0 +1,36 @@
+1. The box contains the coin
+2. The box associated with coin
+3. The box is represents the variable
+4. The variable is associted with value
+5. The variable is represents the  memory adderess
+6. Variable may be any of hte following format
+   1.Value
+   2.Message
+   3.File name
+   4.Path name
+   5.Command
+7. Variable associated methods
+   1. Inilization method -> It is used in program
+                         -> It is static method
+                         -> It is a time consuming 
+                         -> var=10
+                         -> Name,DOB,PAN
+   2. On line method     -> It is mentationed while 
+                         -> executiong the program
+                         -> It is dynamic
+                         -> Its reads data from keyboard       
+                         -> raw_input() ,it accept all data types
+                         -> int,float,char,string,complex
+                         ->Exp,sal                     
+8. Variable accessing methods
+   1.Direct method  : print "Message:",(var1,var2,var3)
+   2.C based method : Similar to c type syntax
+                      print "Message :%d%s%f " % (var)
+9. Multiple variables are inilized at a time
+   a=b=c=d=10
+10. Multiple variables are inilized at a time with 
+   different values
+   a,b,c,d=10,20,30,40 
+   a=10 ,b=20 , c=30 ,d=40
+
+                    
